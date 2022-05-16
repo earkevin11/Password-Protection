@@ -23,6 +23,7 @@
 
 # Can companies use it for Hybrid environments?
 - It can also be enabled for hybrid cloud environments
+- This means that it will that password protection policies created at the Azure AD level will extend to on-prem local AD.
 
 # What is the difference between Enforced and Audit mode?
 - Enforced means that password protection policy is in place and password ban list will be enforced.
